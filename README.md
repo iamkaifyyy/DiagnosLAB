@@ -1,4 +1,4 @@
-# diagnosLAB 🩺🧪
+# diagnosLAB 
 > **Smart Diagnostic Decision Platform** — Helping patients find the RIGHT laboratory with clinical precision and objective trust metrics.
 
 ---
